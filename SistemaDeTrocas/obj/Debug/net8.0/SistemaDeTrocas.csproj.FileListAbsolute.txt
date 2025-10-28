@@ -1,0 +1,14 @@
+C:\projetos\2025\CSP02\SistemaDeTrocas\bin\Debug\net8.0\SistemaDeTrocas.exe
+C:\projetos\2025\CSP02\SistemaDeTrocas\bin\Debug\net8.0\SistemaDeTrocas.deps.json
+C:\projetos\2025\CSP02\SistemaDeTrocas\bin\Debug\net8.0\SistemaDeTrocas.runtimeconfig.json
+C:\projetos\2025\CSP02\SistemaDeTrocas\bin\Debug\net8.0\SistemaDeTrocas.dll
+C:\projetos\2025\CSP02\SistemaDeTrocas\bin\Debug\net8.0\SistemaDeTrocas.pdb
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.AssemblyInfoInputs.cache
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.AssemblyInfo.cs
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.csproj.CoreCompileInputs.cache
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.dll
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\refint\SistemaDeTrocas.dll
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.pdb
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.genruntimeconfig.cache
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\ref\SistemaDeTrocas.dll
