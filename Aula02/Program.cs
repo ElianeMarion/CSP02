@@ -138,6 +138,8 @@
 				Console.WriteLine("Usuário e/ou senha incorretos");
 			}
 
+			//Estrutura de decisão - comando switch
+
 		}
 	}
 }
