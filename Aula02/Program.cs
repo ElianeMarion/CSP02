@@ -139,7 +139,93 @@
 			}
 
 			//Estrutura de decisão - comando switch
+			/* Considerar que o usuário vai informar 4 dígitos da placa antiga HIO-9876 
+			 * você vai exibir o final da placa, e vamos informar o dia do rodizio "
+			 * */
+			int placa, digito;
+			Console.WriteLine("Informe os dígitos da placa");
+			placa = Convert.ToInt32(Console.ReadLine());
+			digito = placa % 10;
+			Console.WriteLine("O dígito final da placa é " + digito);
+			if (digito == 1 || digito == 2)
+			{
+				Console.WriteLine("Rodízio na segunda-feira");
+			}
+			else if(digito == 3 || digito == 4)
+			{
+				Console.WriteLine("Rodízio na terça-feira");
 
+			}
+			else if (digito == 5 || digito == 6)
+			{
+				Console.WriteLine("Rodízio na quarta-feira");
+
+			}
+			else if (digito == 7 || digito == 8)
+			{
+				Console.WriteLine("Rodízio na quinta-feira");
+
+			}
+			else if (digito == 9 || digito == 0)
+			{
+				Console.WriteLine("Rodízio na sexta-feira");
+			}
+			else
+			{
+				Console.WriteLine("Final de semana, rodízio liberado");
+			}
+
+
+			//Comando switch
+			switch (digito) {
+				case 1: Console.WriteLine("Rodízio na segunda-feira");
+						Console.WriteLine("Dia de trabalho mais longe do final de semana");
+					break;
+				case 2: Console.WriteLine("Rodízio na segunda-feira"); break;
+				case 3:
+				case 4:  Console.WriteLine("Rodízio na terça-feira"); break;
+				case 5:
+				case 6: Console.WriteLine("Rodízio na quarta-feira"); break;
+				case 7:
+				case 8: Console.WriteLine("Rodízio na quinta-feira"); break;
+				case 9:
+				case 0: Console.WriteLine("Rodízio na sexta-feira"); break;
+				default: Console.WriteLine("Opção inválida"); break ;
+			}
+
+			char dia = 's';
+
+			string diaSemana = "ter";
+			switch (diaSemana) {
+				case "seg":
+				case "ter":
+				case "qua":
+				case "qui":
+				case "sex": Console.WriteLine("Dia útil");break;
+				default: Console.WriteLine("Final de semana - descanso");break ;
+			}
+
+			double nota = 9.5;
+			switch (nota)
+			{
+				case < 0.0: Console.WriteLine($"Nota negativa {nota}");break;
+				case > 10.0 : Console.WriteLine($"Nota inválida {nota}");break ;
+				default: Console.WriteLine($"Nota válida {nota}");break;
+			}
+
+			//Operador ternário
+			//variavel = condicao ? tratamento_CondicaoV : tratamento_condicaoF
+
+			double desconto, valorCompra = 100;
+			if (valorCompra > 200)
+				desconto = 10;
+			else
+				desconto = 0;
+
+			desconto = valorCompra > 200 ? 10 : 0;
+			Console.WriteLine($"Desconto aplicado R$ {desconto}");
+				
+			
 		}
 	}
 }
