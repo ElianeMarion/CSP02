@@ -12,3 +12,4 @@ C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\refint\SistemaDeTrocas.d
 C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.pdb
 C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.genruntimeconfig.cache
 C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\ref\SistemaDeTrocas.dll
+C:\projetos\2025\CSP02\SistemaDeTrocas\obj\Debug\net8.0\SistemaDeTrocas.sourcelink.json

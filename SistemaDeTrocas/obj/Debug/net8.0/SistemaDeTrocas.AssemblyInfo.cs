@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaDeTrocas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+014f9a21ada5209c7031652b2cd041ba61958eff")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaDeTrocas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaDeTrocas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
