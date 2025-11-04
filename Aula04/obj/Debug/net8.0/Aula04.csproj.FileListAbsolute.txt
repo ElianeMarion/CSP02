@@ -1,0 +1,15 @@
+C:\projetos\2025\CSP02\Aula04\bin\Debug\net8.0\Aula04.exe
+C:\projetos\2025\CSP02\Aula04\bin\Debug\net8.0\Aula04.deps.json
+C:\projetos\2025\CSP02\Aula04\bin\Debug\net8.0\Aula04.runtimeconfig.json
+C:\projetos\2025\CSP02\Aula04\bin\Debug\net8.0\Aula04.dll
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\Aula04.AssemblyInfoInputs.cache
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\Aula04.AssemblyInfo.cs
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\Aula04.csproj.CoreCompileInputs.cache
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\Aula04.sourcelink.json
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\Aula04.dll
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\refint\Aula04.dll
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\Aula04.pdb
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\Aula04.genruntimeconfig.cache
+C:\projetos\2025\CSP02\Aula04\obj\Debug\net8.0\ref\Aula04.dll
+C:\projetos\2025\CSP02\Aula04\bin\Debug\net8.0\Aula04.pdb
