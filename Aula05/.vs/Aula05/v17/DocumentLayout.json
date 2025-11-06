@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projetos\\2025\\CSP02\\SistemaDeTrocas\\",
+  "WorkspaceRootPath": "C:\\projetos\\2025\\CSP02\\Aula05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE165476-45FB-4B71-9A96-A67838D219BA}|SistemaDeTrocas.csproj|c:\\projetos\\2025\\csp02\\sistemadetrocas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE165476-45FB-4B71-9A96-A67838D219BA}|SistemaDeTrocas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBFB1E42-BBDC-49D2-A37B-AEF8431443B0}|Aula05.csproj|c:\\projetos\\2025\\csp02\\aula05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFB1E42-BBDC-49D2-A37B-AEF8431443B0}|Aula05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projetos\\2025\\CSP02\\SistemaDeTrocas\\Program.cs",
+              "DocumentMoniker": "C:\\projetos\\2025\\CSP02\\Aula05\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\projetos\\2025\\CSP02\\SistemaDeTrocas\\Program.cs",
+              "ToolTip": "C:\\projetos\\2025\\CSP02\\Aula05\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAuwHYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAcwJIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:37:16.835Z",
+              "WhenOpened": "2025-11-05T21:51:04.27Z",
               "EditorCaption": ""
             }
           ]
